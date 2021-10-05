@@ -1,0 +1,22 @@
+ /*RESET html */
+ *{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style-type: none;
+}
+/* encapçalament*/
+header {
+    background-color: forestgreen;
+    padding: 40px;
+    margin: 0 0 20px 0;
+}
+/* menú */
+nav {
+    background-color: fuchsia;
+    padding: 40px;
+}
+main {
+    background-color: gold;
+}
